@@ -391,6 +391,7 @@ Free & open-source.
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 | 📸 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | **30% OFF** Lifetime Premium Plan with code **BLACKFRIDAY2025** | 2025-12-01 |
+| 🖼️ | [Picmal](https://picmal.app) | Convert, compress and edit images, video, audio and PDFs on your Mac. Batch hundreds of files at once, offline, nothing gets uploaded. | **50% OFF** every license, one-time purchase, with code **BLACKFRIDAY** | 2026-11-30 |
 | 📸 | [CleanShot X](https://cleanshot.com/pricing) | The ultimate screenshot and screen recording tool for macOS. Capture, annotate, and share beautiful screenshots with cloud storage and advanced features. | **30% OFF** App + Cloud Basic at $20.30 (was $29) / **50% OFF** first year Cloud Pro at $4/month (was $8/month) | 2025-12-01 |
 | 🕑 | [Chronoid](https://chronoid.app?utm=rare-big-deal) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-04 |
 | 🖥️ | [ScreenSnap Pro](https://screensnap.pro/?utm_source=bf) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| 50% OFF Lifetime and Subscription **EZNZQWNW** | 2025-12-30 |
@@ -449,6 +450,7 @@ Free & open-source.
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes. | 50% OFF | 2025-12-03 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-4 |
 | 📝 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required | 2025-12-02 |
+| 🌼 | [Cozy](https://cozyjournal.app) | A private journal for Mac, Windows and iPhone. Your entries stay on your device as your own files. No account, no subscription, no AI. | **50% OFF** one-time purchase with code **BLACKFRIDAY** | 2026-11-30 |
 
 
 ### Menu Bar & More
